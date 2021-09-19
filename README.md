@@ -17,3 +17,6 @@ Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll add t
 
 ### Deliverable 2
 Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll add major earthquake data to the map using d3.json(), and a color and set the radius of the circle based on the magnitude of earthquake, and add a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON().
+
+### Deliverable 3
+Using your knowledge of JavaScript and Leaflet.js add a third map style to your earthquake map.
